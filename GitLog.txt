@@ -1,0 +1,17 @@
+commit a91ec99240cb5c8b434f278390c3d2b285c1d1b1
+Author: rhpineda <rhpineda@ucdavis.edu>
+Date:   Thu Apr 6 16:51:59 2023 -0700
+
+    Weekend.txt
+
+commit 5d5c7fbe8fc5bb175ead2d150326921bcdd2c1a5
+Author: Viatrix Zhang <tiazh@ucdavis.edu>
+Date:   Thu Apr 6 16:39:14 2023 -0700
+
+    Created Weekend.txt
+
+commit ff9beee35da16b99a2dcc1317c61cd6efcac743e
+Author: TriX0625 <130101142+TriX0625@users.noreply.github.com>
+Date:   Thu Apr 6 16:31:21 2023 -0700
+
+    Initial commit
